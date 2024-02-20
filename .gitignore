@@ -1,1 +1,8 @@
+# untuk mengabaikan file tertentu
 config.txt
+
+# untuk mengabaikan folder tertentu
+data/
+
+# untuk mengabaikan semua file yang memiliki extension .exe
+*.exe
